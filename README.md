@@ -1,0 +1,2 @@
+# premium-quench-tub-001-quench-tub-welding-water-bat
+Stop guessing your quench times and water temperatures—track every weld and bath with a studio built for precision, not chaos.  This Notion template eliminates the guesswork from your quench tub workflow, giving you a centralized hub to log water bath conditions, material quench durations, and project specs. It’s the only studio organizer designed
